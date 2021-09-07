@@ -1,0 +1,10 @@
+.searchbox{
+    border-color: 10px solid black;
+    
+}
+.searchbox input{
+    line-height: 2;
+    margin-left:3vw;
+    width:30vw;
+    border-radius:5px;
+}
